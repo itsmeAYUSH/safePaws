@@ -1,4 +1,5 @@
 import './App.css';
+<<<<<<< HEAD
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
@@ -28,3 +29,15 @@ function App() {
 }
 
 export default App;
+=======
+
+function App() {
+  return (
+    <div className="App">
+      <h1>SafePaws</h1>
+    </div>
+  );
+}
+
+export default App;
+>>>>>>> 2d742604d9cb1f6ef875d3cc44fe18dbdc95fed8
